@@ -860,6 +860,11 @@ section {
     background-color: rgb(249 250 251/var(--tw-bg-opacity))
 }
 
+.bg-green-primary {
+    background-color: #b9e185
+}
+
+
 .bg-transparent {
     background-color: initial
 }
