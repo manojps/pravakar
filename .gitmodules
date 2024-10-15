@@ -1,0 +1,3 @@
+[submodule "themes/hugo-proto"]
+	path = themes/hugo-proto
+	url = https://github.com/manojps/hugo-proto.git
