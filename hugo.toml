@@ -1,5 +1,5 @@
 baseURL = 'https://pravakar.xyz/'
 languageCode = 'en-us'
-title = 'Manoj Paravakar'
+title = 'Manoj Pravakar'
 
 theme='hugo-proto'
