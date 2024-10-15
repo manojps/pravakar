@@ -254,7 +254,7 @@ body {
     line-height: 1.75rem;
     font-weight: 300;
     --tw-text-opacity: 1;
-    color: #0a58ca
+    color: #648dcb
 }
 
 h1 {
@@ -1067,8 +1067,12 @@ section {
 }
 
 .text-blue-primary {
+    color: #648dcb
+}  
+
+.text-blue-primary-old {
     color: #0a58ca
-}
+} 
 
 .opacity-0 {
     opacity: 0
@@ -1101,7 +1105,7 @@ section {
 }
 
 .hover\:bg-blue-primary:hover {
-    background-color: #0a58ca
+    background-color: #648dcb
 }
 
 .hover\:bg-gray-50:hover {
